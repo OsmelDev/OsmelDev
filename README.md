@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradesdev&label=Profile%20views&color=0e75b6&style=flat" alt="pradesdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [OsmelDev Website](https://portfolioweb-jhho-fbbdo6lp3-osmeldevs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [OsmelDev Website](https://portfolioweb-osmel.vercel.app/)
 
 - 🌱 I'm currently learning **TypeScript**
 
